@@ -11,7 +11,7 @@
 
 ## 1. Which data type would be the best to use for recording the total balance of an online shopping cart?
 
-// your answer here
+Double
 
 ***
 ## 2. Which of the following variable declarations is **incorrect**?
