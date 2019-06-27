@@ -26,7 +26,9 @@ let grade: Char = "a"
 ## 3. Simplify the following using a calculator:
 
 1 + 4 * 2 / 2 + 2
+```swift
 7
+```
 ***
 ## 4. Which of the following are true? State all that apply.
 
